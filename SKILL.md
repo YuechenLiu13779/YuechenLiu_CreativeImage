@@ -12,35 +12,38 @@ Require both:
 - A text description specifying supporting elements.
 
 ## Input Roles
-- Use the image to determine the main subject, pose, proportions, and recognizable features.
+- Use the image to identify the main subject, overall gesture, and distinctive features. Allow proportions and contours to change to fit the decorative paper-cut composition.
 - Use the text to determine supporting elements, their quantity, and any requested placement.
 - Ignore the original background unless the user explicitly asks to preserve it.
 - Reinterpret all elements using the same red paper-cut visual rules.
 
 ## Visual Rules
-1. Use only red paper-cut forms on a plain warm white background.
-2. Use flat silhouettes and negative-space cutouts. Avoid gradients, realistic shading, and 3D effects.
-3. Keep the main red forms visually connected with broad paper bridges. Simplify fine details.
-4. Keep one dominant subject near the center with a clear outer margin. Make supporting elements secondary.
+1. Color and surface. Use one solid red on a plain warm white background. Keep all forms flat, without gradients, shading, texture, or 3D effects.
+2. Folk-art transformation Reinterpret the subject using the decorative language of the supplied Chinese paper-cut references. Preserve its identity and overall gesture, but simplify or exaggerate proportions to support the composition. Avoid photographic anatomy and individually rendered fur.
+3. Integrated composition. Design the subject and supporting elements together as one compact, interlocking composition. Let supporting elements curve around, pass behind, and connect with the subject. Avoid arranging separate icons beside a central portrait. Do not require a circular frame or bilateral symmetry.
+4. Decorative cutouts. Fill selected areas inside the subject with rhythmic floral, crescent, teardrop, scalloped, or sawtooth cutouts. Use a balance of solid red areas and open white spaces. Keep the main paper structure visually connected.
 
 ## If / Then
-- If the reference image contains multiple subjects and the intended subject is unclear, ask the user which one to use.
-- If supporting elements overlap important identifying features of the subject, move them into the surrounding space.
-- If a detail is too small for a clear paper-cut shape, simplify it while preserving recognizability.
+- If the subject has a broad body area, place a larger decorative motif inside it rather than reproducing realistic fur, shading, or muscle structure.
+- If the subject is tall or upright, let supporting elements rise along one side and curve above or below it to create a balanced, compact composition.
+- If the subject is wide or reclining, let supporting elements follow its back, tail, and lower contour.
+- If supporting elements appear detached, rearrange them or extend their existing stems, waves, or contours to connect them to the main composition.
+- If the user specifies an exact number of supporting objects, preserve that count. Do not repeat those objects as extra decorative motifs.
 
 ## Workflow
-1. Inspect the reference image. Identify the main subject, pose, proportions, and two or three recognizable features.
-2. Read the text instructions. Identify the requested supporting elements, quantities, and placement.
-3. Isolate and simplify the subject. Remove the original background and translate the subject into a flat red silhouette.
-4. Create negative-space details. Use ivory cutouts to describe essential features. Keep the red forms connected with broad bridges.
-5. Add supporting elements. Translate the requested elements into the same paper-cut style. Keep the main subject dominant and avoid covering its identifying features.
-6. Compose and generate. Arrange all elements on a plain warm ivory background with a clear margin.
-7. Review the result. Check subject fidelity, supporting-element counts, visual consistency, and compliance with the rules.
+1. Inspect the subject reference. Identify the subject, overall gesture, and two or three distinctive features. Separate these essential features from photographic detail that can be simplified.
+2. Read the text instructions. Identify the supporting elements, their quantities, and any required relationships with the subject.
+3. Plan the whole composition before drawing details. Choose a compact overall shape suited to the subject. Position the subject and supporting elements together, using curved movement, overlap, and visual connections.
+4. Transform the subject into a folk-art silhouette. Simplify its contour and adjust proportions where needed. Preserve recognizability without tracing the photograph.
+5. Integrate the supporting elements. Weave them around the subject using their own shapes, stems, waves, or contours. Keep identifying features clear, while allowing other areas to overlap and connect.
+6. Design the internal cutouts. Use decorative motifs within the body and supporting forms. Combine larger openings with smaller repeated cuts. Avoid describing every area with realistic surface detail.
+7. Generate and inspect. Produce one red-and-white image. Review the composition as a whole and revise any areas that look like detached clip art or a realistic stencil.
+
 
 ## Quality Check
-- Does the main subject retain its recognizable features and overall pose from the reference?
-- Are the requested supporting elements and quantities present?
-- Do all elements share the same paper-cut style?
-- Are red and ivory the only colors?
-- Are the forms flat, clear, and visually connected?
-- Is the main subject visually dominant?
+- Is the subject recognizable without closely tracing the photograph?
+- Do the subject and supporting elements form one integrated composition?
+- Are decorative cutouts present inside the subject, rather than only around it?
+- Are solid red areas balanced with open white spaces?
+- Are the requested supporting elements and counts correct?
+- Does the result avoid realistic fur, shading, isolated icons, and an automatic symmetrical layout?
