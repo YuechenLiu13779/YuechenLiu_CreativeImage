@@ -1,5 +1,5 @@
 ---
-name: Chinese-Paper-Cutting-Illustration
+name: chinese-paper-cutting-illustration
 description: Create red Chinese paper-cut illustrations from a subject description or reference image. Use when the user wants a flat, decorative paper-cut interpretation of an animal, plant, or everyday object.
 ---
 
@@ -16,6 +16,12 @@ Require both:
 - Use the text to determine supporting elements, their quantity, and any requested placement.
 - Ignore the original background unless the user explicitly asks to preserve it.
 - Reinterpret all elements using the same red paper-cut visual rules.
+
+## Visual Rules
+1. Use only red paper-cut forms on a plain warm white background.
+2. Use flat silhouettes and negative-space cutouts. Avoid gradients, realistic shading, and 3D effects.
+3. Keep the main red forms visually connected with broad paper bridges. Simplify fine details.
+4. Keep one dominant subject near the center with a clear outer margin. Make supporting elements secondary.
 
 ## If / Then
 - If the reference image contains multiple subjects and the intended subject is unclear, ask the user which one to use.
