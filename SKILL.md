@@ -29,6 +29,7 @@ Require both:
 - If the subject is wide or reclining, let supporting elements follow its back, tail, and lower contour.
 - If supporting elements appear detached, rearrange them or extend their existing stems, waves, or contours to connect them to the main composition.
 - If the user specifies an exact number of supporting objects, preserve that count. Do not repeat those objects as extra decorative motifs.
+- If the user requests a circular window-paper-cut composition, arrange the subject and supporting motifs into a unified circular silhouette. Let the motifs themselves form the rounded perimeter. Adjust scale and placement to keep all elements inside it, rather than adding a plain circular frame.
 
 ## Workflow
 1. Inspect the subject reference. Identify the subject, overall gesture, and two or three distinctive features. Separate these essential features from photographic detail that can be simplified.
