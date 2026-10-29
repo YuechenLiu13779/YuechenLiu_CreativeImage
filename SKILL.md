@@ -18,7 +18,7 @@ Require both:
 - Reinterpret all elements using the same red paper-cut visual rules.
 
 ## Visual Rules
-1. Color and surface. Use one solid red on a plain warm white background. Keep all forms flat, without gradients, shading, texture, or 3D effects.
+1. Color and surface. Use one solid red on a white background. Keep all forms flat, without gradients, shading, texture, or 3D effects.
 2. Folk-art transformation Reinterpret the subject using the decorative language of the supplied Chinese paper-cut references. Preserve its identity and overall gesture, but simplify or exaggerate proportions to support the composition. Avoid photographic anatomy and individually rendered fur.
 3. Integrated composition. Design the subject and supporting elements together as one compact, interlocking composition. Let supporting elements curve around, pass behind, and connect with the subject. Avoid arranging separate icons beside a central portrait. Do not require a circular frame or bilateral symmetry.
 4. Decorative cutouts. Fill selected areas inside the subject with rhythmic floral, crescent, teardrop, scalloped, or sawtooth cutouts. Use a balance of solid red areas and open white spaces. Keep the main paper structure visually connected.
